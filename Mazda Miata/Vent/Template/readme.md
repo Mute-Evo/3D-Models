@@ -1,4 +1,4 @@
-# 1990 Mazda Miata Vent Template
+# 1990-2005 Mazda Miata Vent Template
 - Empty vent template for 1990 to 2005 mazda miata eyeball vent.
 - Will not fit a gauge pod but you can modify it to do so.
 
